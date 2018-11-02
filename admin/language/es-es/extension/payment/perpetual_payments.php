@@ -4,8 +4,8 @@ $_['heading_title']		 = 'Perpetual Payments';
 
 // Text
 $_['text_extension']	 = 'Extensiones';
-$_['text_success']		 = 'Operación Exitosa: Detalles de Cuenta Perpetual Payments account details.';
-$_['text_edit']          = 'Edit Perpetual Payments';
+$_['text_success']		 = 'Operación Exitosa: Detalles de Cuenta Perpetual Payments.';
+$_['text_edit']          = 'Editar Perpetual Payments';
 
 // Entry
 $_['entry_auth_id']		 = 'Authorization ID';

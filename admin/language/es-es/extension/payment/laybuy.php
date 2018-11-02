@@ -114,24 +114,24 @@ $_['help_token']                    = 'Ingresar un Token aleatorio para segurida
 $_['help_minimum']                  = 'Monto del Depósito Mínimo.';
 $_['help_maximum']                  = 'Monto del Depósito Máximo.';
 $_['help_months']                   = 'Máximo Número de Meses para pagar.';
-$_['help_category']                 = 'Select for which categories the payment option will be available. Leave blank if no restriction.';
-$_['help_product_ids']              = 'Add product IDs separated by comma(,) for which the method will not be available.';
-$_['help_customer_group']           = 'The customer must be in these customer groups before this payment method becomes active. Leave blank if there is no restriction.';
+$_['help_category']                 = 'Seleccionar para cada Categoría las Opciones de Pago disponibles. Dejar en blanco si no hay restricciones.';
+$_['help_product_ids']              = 'Agregar IDs de Productos separados por comas(,) para los cuales el Método no estará disponible.';
+$_['help_customer_group']           = 'El Cliente debe estar en estos Grupos de Clientes antes de que el método de pago se active. Dejar en blanco sino hay restricciones.';
 $_['help_logging']                  = 'Al habilitar la depuración, se escribirán los datos confidenciales en un archivo de registro. Siempre desactivar a menos que se indique lo contrario.';
-$_['help_total']                    = 'Total del Pedido a Alcanzar antes de que el método de pago se active. Must be a value with no currency sign.';
-$_['help_order_status_pending']     = 'The order status after the customer\'s order has been placed.';
-$_['help_order_status_canceled']    = 'The order status after the customer\'s order is canceled.';
-$_['help_order_status_processing']  = 'The order status after the customer\'s order is paid.';
-$_['help_cron_url']                 = 'Set a cron job to call this URL so that the reports are auto fetched.';
+$_['help_total']                    = 'Total del Pedido a Alcanzar antes de que el método de pago se active. Debe ser un valor sin un Signo de Moneda.';
+$_['help_order_status_pending']     = 'El Estado del Pedido después de ser Realizado.';
+$_['help_order_status_canceled']    = 'El Estado del Pedido después de ser Cancelado.';
+$_['help_order_status_processing']  = 'El Estado del Pedido después de ser Pagado.';
+$_['help_cron_url']                 = 'Configurar un Cron para llamar a esta URL para que los Informes se obtengan automáticamente.';
 $_['help_cron_time']                = 'Ultima vez que el Cron Job se ejecutó.';
 
 // Error
-$_['error_permission']              = 'Error: Sin permiso para modificar payment Lay-buy.';
-$_['error_membership_id']           = 'Lay-Buys Membership ID Required.';
+$_['error_permission']              = 'Error: Sin permiso para modificar el Módulo de Pago Lay-buy.';
+$_['error_membership_id']           = 'Miembro ID de Lay-Buys Obligatorio.';
 $_['error_token']                   = 'Token Secreto de Lay-Buyn Obligatorio.';
-$_['error_min_deposit']             = 'Cannot exceed the Maximum Down Payment amount.';
+$_['error_min_deposit']             = 'No se puede exceder el Máximo Monto de Pago Inicial.';
 
 // Button
-$_['button_fetch']                  = 'Fetch';
-$_['button_revise_plan']            = 'Revise Plan';
-$_['button_cancel_plan']            = 'Cancel Plan';
+$_['button_fetch']                  = 'Se ha podido Recuperar';
+$_['button_revise_plan']            = 'Revisar Plan';
+$_['button_cancel_plan']            = 'Cancelar Plan';

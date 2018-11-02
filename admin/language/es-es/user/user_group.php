@@ -6,7 +6,7 @@ $_['heading_title']    = 'User Groups';
 $_['text_success']     = 'Operación Exitosa: You have modified user groups.';
 $_['text_list']        = 'Grupo de Usuarios';
 $_['text_add']         = 'Add User Group';
-$_['text_edit']        = 'Edit User Group';
+$_['text_edit']        = 'Editar User Group';
 
 // Column
 $_['column_name']      = 'User Group Name';

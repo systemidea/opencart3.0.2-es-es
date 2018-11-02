@@ -9,7 +9,7 @@ $_['tab_settings']          = 'Configuración';
 // Text
 $_['text_extension']        = 'Extensiones';
 $_['text_success']          = 'Operación Exitosa: You have modified Pilibaba payment module.';
-$_['text_edit']             = 'Edit Pilibaba';
+$_['text_edit']             = 'Editar Pilibaba';
 $_['text_pilibaba']         = '<a href="http://www.pilibaba.com" target="_blank"><img src="view/image/payment/pilibaba.png" alt="Pilibaba" title="Pilibaba"></a>';
 $_['text_live']             = 'Sitio en Producción';
 $_['text_test']             = 'Sitio en Testing';

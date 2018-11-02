@@ -5,7 +5,7 @@ $_['heading_title']					 = 'PayPal Express Checkout';
 // Text
 $_['text_extension']				 = 'Extensiones';
 $_['text_success']				 	 = 'Operación Exitosa: Detalles de Cuenta PayPal Express Checkout account details.';
-$_['text_edit']                      = 'Edit PayPal Express Checkout';
+$_['text_edit']                      = 'Editar PayPal Express Checkout';
 $_['text_pp_express']				 = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization']			 = 'Authorization';
 $_['text_sale']						 = 'Sale';
@@ -32,10 +32,10 @@ $_['text_enable_button']			 = 'We recommend offering PayPal Express Shortcut to 
 // Entry
 $_['entry_username']				 = 'Nombre de Usuario de API';
 $_['entry_password']				 = 'Contraseña de API';
-$_['entry_signature']				 = 'API Signature';
+$_['entry_signature']				 = 'Firma de la API';
 $_['entry_sandbox_username']		 = 'API Sandbox Username';
 $_['entry_sandbox_password']		 = 'API Sandbox Password';
-$_['entry_sandbox_signature']		 = 'API Sandbox Signature';
+$_['entry_sandbox_signature']		 = 'Firma de la API Sandbox';
 $_['entry_ipn']						 = 'IPN URL';
 $_['entry_test']					 = 'Modo Testing';
 $_['entry_debug']					 = 'Registro de Depuración';
@@ -77,10 +77,10 @@ $_['help_currency']					 = 'Used for transaction searches';
 $_['error_permission']				 = 'Error: Sin permiso para modificar payment PayPal Express Checkout.';
 $_['error_username']				 = 'Nombre de Usuario de API Obligatorio.';
 $_['error_password']				 = 'Contraseña de API Obligatoria.';
-$_['error_signature']				 = 'API Signature Required.';
+$_['error_signature']				 = 'Firma de la API Obligatoria.';
 $_['error_sandbox_username']	 	 = 'API Sandbox Username Required.';
 $_['error_sandbox_password']		 = 'API Sandbox Password Required.';
-$_['error_sandbox_signature']		 = 'API Sandbox Signature Required.';
+$_['error_sandbox_signature']		 = 'Firma de la API Sandbox Obligatoria.';
 $_['error_api']						 = 'Paypal Authorization Error';
 $_['error_api_sandbox']				 = 'Paypal Sandbox Authorization Error';
 $_['error_consent']				 	 = 'To use quick setup you need to permit PayPal to use your store information';
