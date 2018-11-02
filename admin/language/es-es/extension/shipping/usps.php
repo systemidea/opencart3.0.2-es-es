@@ -52,7 +52,7 @@ $_['text_variable']         = 'Variable';
 
 // Entry
 $_['entry_user_id']         = 'User ID';
-$_['entry_postcode']        = 'Zip Code';
+$_['entry_postcode']        = 'Código Postal';
 $_['entry_domestic']        = 'Domestic Services';
 $_['entry_international']   = 'International Services';
 $_['entry_size']            = 'Size';

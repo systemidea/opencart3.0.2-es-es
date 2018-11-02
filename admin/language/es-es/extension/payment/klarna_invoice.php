@@ -19,7 +19,7 @@ $_['text_netherlands']		= 'Países Bajos';
 // Entry
 $_['entry_merchant']		= 'Comercio ID Klarna';
 $_['entry_secret']			= 'Klarna Secret';
-$_['entry_server']			= 'servidor';
+$_['entry_server']			= 'Servidor';
 $_['entry_total']			= 'Total';
 $_['entry_pending_status']	= 'Estado Pendiente';
 $_['entry_accepted_status'] = 'Estado Aceptado';

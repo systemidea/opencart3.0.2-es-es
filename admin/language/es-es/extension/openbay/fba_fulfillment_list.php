@@ -8,7 +8,7 @@ $_['text_fba']						     = 'Cumplimiento por parte de Amazon';
 //$_['button_pull_orders']        	     = 'Start';
 
 // Entry
-$_['entry_start_date']             		 = 'Fecha Inicio (formato YYYY-MM-DD)';
+$_['entry_start_date']             		 = 'Fecha Inicio (formato AAAA-MM-DD)';
 
 // Text
 $_['text_no_results'] 					 = 'No se encuentra ningún cumplimiento en Amazon';

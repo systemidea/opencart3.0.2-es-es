@@ -9,7 +9,7 @@ $_['text_edit']          = 'Edit Australia Post Shipping';
 
 // Entry
 $_['entry_api']          = 'API Key';
-$_['entry_postcode']     = 'Post Code';
+$_['entry_postcode']     = 'Código Postal';
 $_['entry_weight_class'] = 'Weight Class';
 $_['entry_tax_class']    = 'Clase de Impuesto';
 $_['entry_geo_zone']     = 'Zona Geográfica';

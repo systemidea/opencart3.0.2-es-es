@@ -163,13 +163,13 @@ $_['button_process_settlement']			 = 'Archivos del Proceso de Liquidación';
 // Error
 $_['error_warning']						 = 'Error: Verificar el Formulario.';
 $_['error_php_version']					 = 'Versión Mínima Obligatoria de PHP 5.4.0.';
-$_['error_ssl']							 = 'You must enable "Use SSL" in the store settings and have an SSL certificate installed.';
-$_['error_account_minimum']				 = 'Please add at least one account.';
-$_['error_locale']						 = 'Please enter a valid locale.';
-$_['error_account_currency']			 = 'Account list contains one or more duplicate currencies.';
+$_['error_ssl']							 = 'Se debe habilitar "SSL" en la configuración del Comercio y se debe tener instalado un Certificado SSL certificate.';
+$_['error_account_minimum']				 = 'Agregar al menos una Cuenta.';
+$_['error_locale']						 = 'Seleccionar una Localización Válida.';
+$_['error_account_currency']			 = 'La Lista de Cuentas contiene una o más Monedas duplicadas.';
 $_['error_merchant_id']					 = 'Comercio ID Obligatorio.';
 $_['error_secret']						 = 'Secret Compartida Obligatoria.';
-$_['error_tax_warning']					 = 'Error: Some of your products use a Payment Address based Tax Class. Klarna Checkout will not work when any of these are placed in the cart.';
+$_['error_tax_warning']					 = 'Error: Algunos Productos usan una Dirección de Pago basada en Clases de Impuestos. Pago Klarna no funcionará si estos productos se colocan en el Carro.';
 
 // Tab
 $_['tab_setting']						 = 'Configuración';
