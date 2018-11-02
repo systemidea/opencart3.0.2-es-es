@@ -1,25 +1,25 @@
 <?php
 // Heading
-$_['heading_title']         = 'Pilibaba for Chinese Checkout';
+$_['heading_title']         = 'Pilibaba para Pagos de China';
 
 // Tab
-$_['tab_register']          = 'Register';
+$_['tab_register']          = 'Registrar';
 $_['tab_settings']          = 'Configuración';
 
 // Text
 $_['text_extension']        = 'Extensiones';
-$_['text_success']          = 'Operación Exitosa: You have modified Pilibaba payment module.';
+$_['text_success']          = 'Operación Exitosa: Módulo de Pago Pilibaba Modificado.';
 $_['text_edit']             = 'Editar Pilibaba';
 $_['text_pilibaba']         = '<a href="http://www.pilibaba.com" target="_blank"><img src="view/image/payment/pilibaba.png" alt="Pilibaba" title="Pilibaba"></a>';
 $_['text_live']             = 'Sitio en Producción';
 $_['text_test']             = 'Sitio en Testing';
-$_['text_payment_info']     = 'Payment Info';
+$_['text_payment_info']     = 'Información de Pago';
 $_['text_order_id']         = 'Pedido ID';
 $_['text_amount']           = 'Monto';
-$_['text_fee']              = 'Fee';
+$_['text_fee']              = 'Cuota';
 $_['text_date_added']       = 'Fecha Alta';
-$_['text_tracking']         = 'Tracking';
-$_['text_barcode']          = 'Barcode';
+$_['text_tracking']         = 'Seguimiento';
+$_['text_barcode']          = 'Código de Barra';
 $_['text_barcode_info']     = '(Print out this unique barcode and stick it on the surface of the parcel)';
 $_['text_confirm']          = 'Are you sure you want to update the tracking number?';
 $_['text_register_success'] = 'You have successfully registered. You should receive an email shortly.';
@@ -28,15 +28,15 @@ $_['text_other']            = 'Otros';
 $_['text_email']            = 'The registered email address for your Pilibaba account is %s';
 
 // Entry
-$_['entry_email_address']   = 'Email Address';
+$_['entry_email_address']   = 'Dirección de Email';
 $_['entry_password']        = 'Contraseña';
 $_['entry_currency']        = 'Moneda';
-$_['entry_warehouse']       = 'Warehouse';
+$_['entry_warehouse']       = 'Almacén';
 $_['entry_country']         = 'País';
-$_['entry_merchant_number'] = 'Merchant Number';
+$_['entry_merchant_number'] = 'Número de Comercio';
 $_['entry_secret_key']      = 'Key Secreta';
 $_['entry_environment']     = 'Ambiente';
-$_['entry_shipping_fee']    = 'Shipping Fee';
+$_['entry_shipping_fee']    = 'Cuota de Envío';
 $_['entry_order_status']    = 'Estado del Pedido';
 $_['entry_status']          = 'Estado';
 $_['entry_logging']         = 'Registro de Depuración';
@@ -68,12 +68,12 @@ $_['error_email_address']   = 'Please enter your email address.';
 $_['error_email_invalid']   = 'The email address is not valid.';
 $_['error_password']        = 'Password must be at least 8 caracteres.';
 $_['error_currency']        = 'Seleccionar Moneda.';
-$_['error_warehouse']       = 'Please select a warehouse.';
-$_['error_country']         = 'Please select a country.';
-$_['error_weight']          = 'Please change your <a href="%s">Weight Class</a> setting to grams. It\'s in \'System -> Settings\' in the \'Local\' tab.';
-$_['error_bad_response']    = 'An invalid response was received. Please try again later.';
+$_['error_warehouse']       = 'Seleccionar Almacén.';
+$_['error_country']         = 'Seleccionar País.';
+$_['error_weight']          = 'Cambiar la <a href="%s">Clase de Peso</a>, setear a gramos.';
+$_['error_bad_response']    = 'se recibió una respuesta inválida. Intentar nuevamente.';
 
 // Button
 $_['button_register']       = 'Registrar';
 $_['button_tracking']       = 'Actualizar Número de Seguimiento';
-$_['button_barcode']        = 'Generate Barcode';
+$_['button_barcode']        = 'Generar Código de Barras';

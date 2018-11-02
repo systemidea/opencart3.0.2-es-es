@@ -1,40 +1,40 @@
 <?php
 // Heading
-$_['heading_title']					 = 'PayPal (Powered by Braintree)';
+$_['heading_title']					 = 'PayPal (Por Braintree)';
 
 // Text
 $_['text_extension']		 		 = 'Extensiones';
-$_['text_pp_braintree']				 = '<img src="view/image/payment/paypal.png" alt="PayPal (Powered by Braintree)" title="PayPal (Powered by Braintree)" style="border: 1px solid #EEEEEE;" />';
+$_['text_pp_braintree']				 = '<img src="view/image/payment/paypal.png" alt="PayPal (Por Braintree)" title="PayPal (Por Braintree)" style="border: 1px solid #EEEEEE;" />';
 $_['text_payment']					 = 'Pago';
-$_['text_success']					 = 'Operación Exitosa: You have modified Braintree account details.';
-$_['text_success_connect']			 = 'Operación Exitosa: You have connected your PayPal (Powered by Braintree) account.';
-$_['text_edit']						 = 'Editar PayPal (Powered by Braintree)';
+$_['text_success']					 = 'Operación Exitosa: Detalles de la Cuenta Braintree Modificados.';
+$_['text_success_connect']			 = 'Operación Exitosa: Se ha conectado a la Cuenta Paypal (Por Braintree).';
+$_['text_edit']						 = 'Editar PayPal (Por Braintree)';
 $_['text_production']				 = 'Sitio en Producción';
 $_['text_sandbox']					 = 'Sitio en Testing';
 $_['text_currency']					 = 'Moneda';
-$_['text_immediate']				 = 'Immediate';
-$_['text_deferred']					 = 'Deferred';
-$_['text_merchant_account_id']		 = 'Merchant Account ID (Leave blank to use default merchant account)';
+$_['text_immediate']				 = 'Immediato';
+$_['text_deferred']					 = 'Diferido';
+$_['text_merchant_account_id']		 = 'Cuenta de Comercio ID (Dejar en blanco para usar la Cuenta del Comercio por Defecto)';
 $_['text_payment_info']				 = 'Información de Pago';
-$_['text_confirm_void']				 = 'Are you sure you want to void this transaction?';
-$_['text_avs_response']				 = 'Street Address: %s, Postal Code: %s';
-$_['text_confirm_settle']			 = 'Are you sure you want to settle/capture';
+$_['text_confirm_void']				 = 'Seguro de Anular esta Transacción?';
+$_['text_avs_response']				 = 'Calle de la Dirección: %s, Código Postal: %s';
+$_['text_confirm_settle']			 = 'Seluro de Liquidar/Capturar';
 $_['text_confirm_refund']			 = 'Seguro de realizar Reembolso?';
 $_['text_success_action']			 = 'Operación Exitosa';
 $_['text_error_settle']				 = 'Error: %s';
-$_['text_error_generic']			 = 'Error: There was an error with your request.';
+$_['text_error_generic']			 = 'Error: Hay un Error en la Solicitud.';
 $_['text_na']						 = 'N/A';
 $_['text_all']						 = 'Todos';
-$_['text_sale']						 = 'Sale';
-$_['text_credit']					 = 'Credit';
+$_['text_sale']						 = 'Venta';
+$_['text_credit']					 = 'Crédito';
 $_['text_credit_card']				 = 'Tarjeta de Crédito';
 $_['text_paypal']					 = 'PayPal';
-$_['text_enable_transactions']		 = 'Please enable Braintree before viewing transactions.';
-$_['text_yes']						 = 'Yes';
+$_['text_enable_transactions']		 = 'Habilitar Braintree antes de visualizar las Transacciones.';
+$_['text_yes']						 = 'Si';
 $_['text_no']						 = 'No';
 $_['text_no_refund']				 = 'Sin Historial de Reembolso';
-$_['text_app_connected']		     = 'Module is connected via Braintree auth';
-$_['text_braintree']        		 = '<img width="100" src="https://s3-us-west-1.amazonaws.com/bt-partner-assets/paypal-braintree.png" alt="PayPal powered by Braintree" style="border: 1px solid #EEEEEE;">';
+$_['text_app_connected']		     = 'El Módulo está conectado vía autentificación Braintree';
+$_['text_braintree']        		 = '<img width="100" src="https://s3-us-west-1.amazonaws.com/bt-partner-assets/paypal-braintree.png" alt="PayPal Por Braintree" style="border: 1px solid #EEEEEE;">';
 $_['text_paypal_gold'] 				 = 'Dorado';
 $_['text_paypal_blue'] 				 = 'Blue';
 $_['text_paypal_silver'] 			 = 'Silver';
