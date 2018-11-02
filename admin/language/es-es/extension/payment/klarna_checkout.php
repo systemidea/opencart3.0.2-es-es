@@ -161,8 +161,8 @@ $_['button_new_refund']					 = 'Nuevo Reembolso';
 $_['button_process_settlement']			 = 'Archivos del Proceso de Liquidación';
 
 // Error
-$_['error_warning']						 = 'Error: Please check the form carefully for errors.';
-$_['error_php_version']					 = 'Minimum version of PHP 5.4.0 is required.';
+$_['error_warning']						 = 'Error: Verificar el Formulario.';
+$_['error_php_version']					 = 'Versión Mínima Obligatoria de PHP 5.4.0.';
 $_['error_ssl']							 = 'You must enable "Use SSL" in the store settings and have an SSL certificate installed.';
 $_['error_account_minimum']				 = 'Please add at least one account.';
 $_['error_locale']						 = 'Please enter a valid locale.';
