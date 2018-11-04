@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']					 = 'PayPal (Por Braintree)';
+$_['heading_title']					 = 'PayPal (Desarrollado por Braintree)';
 
 // Text
 $_['text_extension']		 		 = 'Extensiones';
-$_['text_pp_braintree']				 = '<img src="view/image/payment/paypal.png" alt="PayPal (Por Braintree)" title="PayPal (Por Braintree)" style="border: 1px solid #EEEEEE;" />';
+$_['text_pp_braintree']				 = '<img src="view/image/payment/paypal.png" alt="PayPal (Desarrollado por Braintree)" title="PayPal (Desarrollado por Braintree)" style="border: 1px solid #EEEEEE;" />';
 $_['text_payment']					 = 'Pago';
-$_['text_success']					 = 'Operación Exitosa: Detalles de la Cuenta Braintree Modificados.';
-$_['text_success_connect']			 = 'Operación Exitosa: Se ha conectado a la Cuenta Paypal (Por Braintree).';
-$_['text_edit']						 = 'Editar PayPal (Por Braintree)';
+$_['text_success']					 = 'Operación Exitosa: Detalles de la Cuenta Paypal (Desarrollado por Braintree) Modificados.';
+$_['text_success_connect']			 = 'Operación Exitosa: Se ha conectado a la Cuenta Paypal (Desarrollado por Braintree).';
+$_['text_edit']						 = 'Editar PayPal (Desarrollado por Braintree)';
 $_['text_production']				 = 'Sitio en Producción';
 $_['text_sandbox']					 = 'Sitio en Testing';
 $_['text_currency']					 = 'Moneda';
@@ -29,35 +29,35 @@ $_['text_sale']						 = 'Venta';
 $_['text_credit']					 = 'Crédito';
 $_['text_credit_card']				 = 'Tarjeta de Crédito';
 $_['text_paypal']					 = 'PayPal';
-$_['text_enable_transactions']		 = 'Habilitar Braintree antes de visualizar las Transacciones.';
+$_['text_enable_transactions']		 = 'Habilitar Paypal (Desarrollado por Braintree) antes de visualizar las Transacciones.';
 $_['text_yes']						 = 'Si';
 $_['text_no']						 = 'No';
 $_['text_no_refund']				 = 'Sin Historial de Reembolso';
 $_['text_app_connected']		     = 'El Módulo está conectado vía autentificación Braintree';
-$_['text_braintree']        		 = '<img width="100" src="https://s3-us-west-1.amazonaws.com/bt-partner-assets/paypal-braintree.png" alt="PayPal Por Braintree" style="border: 1px solid #EEEEEE;">';
+$_['text_braintree']        		 = '<img width="100" src="https://s3-us-west-1.amazonaws.com/bt-partner-assets/paypal-braintree.png" alt="PayPal (Desarrollado por Braintree)" style="border: 1px solid #EEEEEE;">';
 $_['text_paypal_gold'] 				 = 'Dorado';
-$_['text_paypal_blue'] 				 = 'Blue';
-$_['text_paypal_silver'] 			 = 'Silver';
-$_['text_paypal_tiny']		 		 = 'Tiny';
-$_['text_paypal_small']		 		 = 'Small';
-$_['text_paypal_medium']		 	 = 'Medium';
-$_['text_paypal_pill']		 		 = 'Pill';
+$_['text_paypal_blue'] 				 = 'Azul';
+$_['text_paypal_silver'] 			 = 'Plateado';
+$_['text_paypal_tiny']		 		 = 'Muy Pequeño';
+$_['text_paypal_small']		 		 = 'Pequeño';
+$_['text_paypal_medium']		 	 = 'Medio';
+$_['text_paypal_pill']		 		 = 'Píldora';
 $_['text_paypal_rectangular']		 = 'Rectangular';
-$_['text_paypal_preview']		 	 = 'Button preview<br />Save to view changes';
-$_['text_braintree_learn']		 	 = 'To start accepting credit/debit cards and PayPal, click Connect with Braintree. <a href="https://www.braintreepayments.com/partners/learn-more" target="_blank">Learn more</a>';
-$_['text_3ds']		 	 			 = '3D Secure';
-$_['text_cvv']		 	 			 = 'CVV Number';
-$_['text_preferred_main']		 	 = 'Designed for businesses of all sizes, from small to large enterprise, easily accept and process payments to help maximise business opportunities and revenue growth, with no setup or monthly fees';
-$_['text_preferred_li_1']			 = 'All the benefits of PayPal, plus cards acceptance on your checkout page';
-$_['text_preferred_li_2']			 = 'Fast configuration and setup';
-$_['text_preferred_li_3']			 = 'Achieve PCI DSS v3.0 SAQ-A compliance using Hosted Fields';
-$_['text_preferred_li_4']			 = 'Allow customers to vault card details';
-$_['text_learn_more']			 	 = '(Learn more)';
+$_['text_paypal_preview']		 	 = 'Botón Vista Previs<br />Guardar Cambios';
+$_['text_braintree_learn']		 	 = 'Para comenzar a aceptar Tarjetas de Crédito/Débito y PayPal, cliquear en Conectar con Braintree. <a href="https://www.braintreepayments.com/partners/learn-more" target="_blank">Leer Más</a>';
+$_['text_3ds']		 	 			 = 'Seguridad 3D';
+$_['text_cvv']		 	 			 = 'Número CVV';
+$_['text_preferred_main']		 	 = 'Designado para Empresas de todos los Tamaños, desde pequeñas a grandes compañías, se aceptan y procesan pagos fácilmente para ayudar a maximizar las oportunidades de negocios y el crecimiento de los ingresos, sin ajustes ni cuotas mensuales.';
+$_['text_preferred_li_1']			 = 'Todos los beneficios de PayPal, más la aceptación de Tarjetas en la Página de Pago.';
+$_['text_preferred_li_2']			 = 'Configuración Rápida';
+$_['text_preferred_li_3']			 = 'Lograr el Cumplimiento de la Norma PCI DSS v3.0 SAQ-A utilizando los campos indicados.';
+$_['text_preferred_li_4']			 = 'Permitir a los Clientes guardar los Detalles de la Tarjeta.';
+$_['text_learn_more']			 	 = '(Leer Más)';
 $_['text_accept']			 	 	 = 'Aceptar';
 $_['text_decline']			 	 	 = 'Declinado';
 $_['text_merchant_connected']		 = 'Comercio ID Conectado: ';
-$_['text_enable_button']			 = 'We recommend offering PayPal Express Shortcut to maximise checkout conversion, this allows customers to use their PayPal address book and <strong>checkout is as little as three taps</strong> from the basket page. Click enable to install the extension and access the layout manager, you will ned to add "PayPal (Powered by Braintree) Button" to the checkout layout';
-$_['text_3ds_ssl']		 			 = '3D Secure requires the store to be using an SSL certificate';
+$_['text_enable_button']			 = 'Se recomienda ofrecer el acceso directo de PayPal Express para maximizar la conversión de Pago, lo que permite que los clientes usen su libreta de direcciones de PayPal en la página del Carro. Cliquear en habilitar para instalar la extensión y acceder al administrador de diseño; se debe agregar el "Botón de PayPal (Desarrollado por Braintree)" al diseño de pago.';
+$_['text_3ds_ssl']		 			 = 'La Seguridad 3D requiere que el Comercio utilice un Certificado SSL.';
 $_['text_unlink']		 			 = 'Borrar Enlace';
 
 // Column
@@ -182,7 +182,7 @@ $_['error_braintree_account_billing']	= 'Billing agreements are not enabled in y
 $_['error_environment']					= 'You cannot set your environment to %s when your credentials are for the %s environment in Braintree';
 
 // Tab
-$_['tab_setting']					 	= 'Configuraciónación';
+$_['tab_setting']					 	= 'Configuración';
 $_['tab_currency']					 	= 'Currencies';
 $_['tab_order_status']				 	= 'Order Statuses (New Orders)';
 $_['tab_3ds']						 	= '3-D Secure';
