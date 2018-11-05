@@ -11,7 +11,7 @@ $_['text_live']                      = 'Sitio en Producción';
 $_['text_sandbox']                   = 'Sitio en Testing';
 
 // Entry
-$_['entry_app_id']                   = 'Partner ID';
+$_['entry_app_id']                   = 'Socio ID';
 $_['entry_merchant_private_key']     = 'Key';
 $_['entry_test']                     = 'Modo Testing';
 $_['entry_total']                    = 'Total';
@@ -28,5 +28,5 @@ $_['help_alipay_setup']              = '<a target="_blank" href="http://www.open
 
 // Error
 $_['error_permission']               = 'Error: Sin permiso para modificar Pago Alipay.';
-$_['error_app_id']                   = 'Partner ID Obligatorio.';
+$_['error_app_id']                   = 'Socio ID Obligatorio.';
 $_['error_merchant_private_key']     = 'Key Obligatoria.';

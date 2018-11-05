@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']					 = 'Realex Redirect';
+$_['heading_title']					 = 'Redirección Realex';
 
 // Text
 $_['text_extension']				 = 'Extensiones';
-$_['text_success']					 = 'Operación Exitosa: Detalles de Cuenta Realex account details.';
-$_['text_edit']                      = 'Edit Realex Redirect';
+$_['text_success']					 = 'Operación Exitosa: Detalles de Cuenta Realex.';
+$_['text_edit']                      = 'Editar Redirección Realex';
 $_['text_live']						 = 'Sitio en Producción';
 $_['text_demo']						 = 'Demo';
 $_['text_card_type']				 = 'Tipo de Tarjeta';
@@ -28,7 +28,7 @@ $_['text_void_ok']					 = 'Anulación Exitosa, Estado del Pedido Actualizado';
 $_['text_settle_auto']				 = 'Auto';
 $_['text_settle_delayed']			 = 'Retrasado';
 $_['text_settle_multi']				 = 'Multi';
-$_['text_url_message']				 = 'You must supply the store URL to your Realex account manager before going live';
+$_['text_url_message']				 = 'Se debe proporcionar la URL del Comercio al Administrador de la Cuenta Realex antes de Publicar.';
 $_['text_payment_info']				 = 'Información de Pago';
 $_['text_capture_status']			 = 'Pago Capturado';
 $_['text_void_status']				 = 'Pago Anulado';
@@ -57,9 +57,9 @@ $_['entry_debug']					 = 'Registro de Depuración';
 $_['entry_live_demo']				 = 'Sitio en Producción/Demo';
 $_['entry_auto_settle']				 = 'Tipo de Liquidación';
 $_['entry_card_select']				 = 'Seleccionar Tarjeta';
-$_['entry_tss_check']				 = 'TSS checks';
-$_['entry_live_url']				 = 'Live connection URL';
-$_['entry_demo_url']				 = 'Demo connection URL';
+$_['entry_tss_check']				 = 'Verificaciones TSS';
+$_['entry_live_url']				 = 'Conexión a la URL en Producción';
+$_['entry_demo_url']				 = 'Conexión a la URL Demo';
 $_['entry_status_success_settled']	 = 'Operación Exitosa - Liquidado';
 $_['entry_status_success_unsettled'] = 'Operación Exitosa - No Liquidado';
 $_['entry_status_decline']			 = 'Declinado';
@@ -68,14 +68,14 @@ $_['entry_status_decline_stolen']	 = 'Declinado - Tarjeta Perdida o Robada';
 $_['entry_status_decline_bank']		 = 'Declinado - Error del Banco';
 $_['entry_status_void']				 = 'Anulado';
 $_['entry_status_rebate']			 = 'Rechazado';
-$_['entry_notification_url']		 = 'Notification URL';
+$_['entry_notification_url']		 = 'URL de Notificación';
 
 // Help
 $_['help_total']					 = 'Total del Pedido a Alcanzar antes de que el método de pago se active.';
 $_['help_card_select']				 = 'Solicitar al Usuario que seleccione su Tipo de Tarjeta antes de ser Redirigido.';
-$_['help_notification']				 = 'You need to supply this URL to Realex to get payment notifications';
+$_['help_notification']				 = 'Se debe proporcionar la URL a Realex para obtener las Notificacioens de Pago.';
 $_['help_debug']					 = 'Al habilitar la depuración, se escribirán los datos confidenciales en un archivo de registro. Siempre desactivar a menos que se indique lo contrario';
-$_['help_dcc_settle']				 = 'If your subaccount is DCC enabled you must use Autosettle';
+$_['help_dcc_settle']				 = 'Si la Subcuenta tiene habilitado DCC se debe utilizar Autoliquidar.';
 
 // Tab
 $_['tab_api']					     = 'Detalles de API';
@@ -85,14 +85,14 @@ $_['tab_payment']					 = 'Configuraciones de Pago';
 $_['tab_advanced']					 = 'Avanzado';
 
 // Button
-$_['button_capture']				 = 'Capture';
+$_['button_capture']				 = 'Capturar';
 $_['button_rebate']					 = 'Reembolso/Reembolso';
 $_['button_void']					 = 'Anular';
 
 // Error
 $_['error_merchant_id']				 = 'Comercio ID Obligatorio.';
 $_['error_secret']					 = 'Secret Compartida Obligatoria.';
-$_['error_live_url']				 = 'Live URL is required.';
-$_['error_demo_url']				 = 'Demo URL is required.';
+$_['error_live_url']				 = 'URL del Sitio en Producción Obligatoria.';
+$_['error_demo_url']				 = 'URL del Sitio Demo Obligatoria.';
 $_['error_data_missing']			 = 'Datos Perdidos.';
 $_['error_use_select_card']			 = 'Se debe habilitar la Opción "Seleccionar Tarjeta para que funcione el enrutamiento de la Subcuenta por Tipo de Tarjeta.';

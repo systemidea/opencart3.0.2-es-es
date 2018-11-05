@@ -68,7 +68,7 @@ $_['entry_status_decline_stolen']	 = 'Declinado - Tarjeta Perdida o Robada';
 $_['entry_status_decline_bank']		 = 'Declinado - Error del Banco';
 $_['entry_status_void']				 = 'Anulado';
 $_['entry_status_rebate']			 = 'Rechazado';
-$_['entry_notification_url']		 = 'Notification URL';
+$_['entry_notification_url']		 = 'URL de Notificación';
 
 // Help
 $_['help_total']					 = 'Total del Pedido a Alcanzar antes de que el método de pago se active.';

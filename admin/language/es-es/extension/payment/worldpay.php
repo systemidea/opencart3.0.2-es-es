@@ -8,9 +8,9 @@ $_['text_success']				         = 'Operación Exitosa: Detalles de Cuenta Worldpa
 $_['text_worldpay']				         = '<a href="https://online.worldpay.com/signup/ee48b6e6-d3e3-42aa-a80e-cbee3f4f8b09" target="_blank"><img src="view/image/payment/worldpay.png" alt="Worldpay" title="Worldpay" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_test']					         = 'Sitio en Testing';
 $_['text_live']					         = 'Sitio en Producción';
-$_['text_authenticate']			         = 'Authenticate';
-$_['text_release_ok']		 	         = 'Release was successful';
-$_['text_release_ok_order']		         = 'Release was successful, order status updated to success - Liquidado';
+$_['text_authenticate']			         = 'Autenticar';
+$_['text_release_ok']		 	         = 'Liberación Exitosa';
+$_['text_release_ok_order']		         = 'Liberación Exitosa, Estado del Pedido Actualizado - Liquidado';
 $_['text_refund_ok']			         = 'Reembolso Exitoso';
 $_['text_refund_ok_order']		         = 'Reembolso Exitoso, Estado del Pedido Actualizado';
 $_['text_void_ok']				         = 'Anulación Exitosa, Estado del Pedido Actualizado';
@@ -30,17 +30,17 @@ $_['entry_webhook_url']			         = 'Webhook URL:';
 $_['entry_cron_job_url']		         = 'URL del Cron Job:';
 $_['entry_last_cron_job_run']	         = 'Last cron job\'s run time:';
 $_['entry_success_status']		         = 'Success Status:';
-$_['entry_failed_status']		         = 'Failed Status:';
+$_['entry_failed_status']		         = 'Estado Fallido:';
 $_['entry_settled_status']			     = 'Estado de Liquidación:';
 $_['entry_refunded_status']			     = 'Estado Reintegrado:';
 $_['entry_partially_refunded_status']	 = 'Estado Reintegrado Prcialmente:';
 $_['entry_charged_back_status']			 = 'Charged Back:';
 $_['entry_information_requested_status'] = 'Information Requested Status:';
 $_['entry_information_supplied_status']	 = 'Information Supplied Status:';
-$_['entry_chargeback_reversed_status']	 = 'Chargeback Reversed Status:';
+$_['entry_chargeback_reversed_status']	 = 'Estado de Devolución de Contracargo:';
 
 
-$_['entry_reversed_status']			     = 'Reversed Status:';
+$_['entry_reversed_status']			     = 'Estado Invertido:';
 $_['entry_voided_status']			     = 'Estado Anulado:';
 
 // Help

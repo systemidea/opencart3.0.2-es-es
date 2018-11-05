@@ -29,7 +29,7 @@ $_['entry_from_email']  = 'From E-Mail';
 $_['entry_to_name']     = 'To Name';
 $_['entry_to_email']    = 'To E-Mail';
 $_['entry_theme']       = 'Theme';
-$_['entry_message']     = 'Message';
+$_['entry_message']     = 'Mensaje';
 $_['entry_amount']      = 'Monto';
 $_['entry_status']      = 'Estado';
 

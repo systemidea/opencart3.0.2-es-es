@@ -10,7 +10,7 @@ $_['text_bluepay_hosted']	 = '<a href="http://www.bluepay.com/preferred-partner/
 $_['text_test']				 = 'Sitio en Testing';
 $_['text_live']				 = 'Sitio en Producción';
 $_['text_sale']				 = 'Venta';
-$_['text_authenticate']		 = 'Autorizar';
+$_['text_authenticate']		 = 'Autenticar';
 $_['text_release_ok']		 = 'Liberación exitosa';
 $_['text_release_ok_order']	 = 'Liberación exitosa';
 $_['text_rebate_ok']		 = 'Reembolso exitoso';

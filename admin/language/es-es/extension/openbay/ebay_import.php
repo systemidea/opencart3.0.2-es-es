@@ -11,7 +11,7 @@ $_['text_sync_server_size']      = 'Actualmente el Servidor puede aceptar: ';
 $_['text_sync_memory_size']      = 'El Límite de memeoria PHP: ';
 $_['text_import_confirm']		 = 'Se importarán todos los artículos de eBay como nuevos productos, ¿Seguro? Esta Acción no puede Deshacerse. Asegurarse de realizar antes un Backup.';
 $_['text_import_notify']		 = 'La solicitud de importación ha sido enviada para su procesamiento. Una importación tarda aproximadamente 1 hora por cada 1000 artículos.';
-$_['text_import_images_msg1']    = 'images are pending import/copy from eBay. Refresh this page, if the number does not decrease then';
+$_['text_import_images_msg1']    = 'imágenes pendientes de importar/copiar de eBay. Actualizar la Página, si el Número no disminuye';
 $_['text_import_images_msg2']    = 'cliquear aquí';
 $_['text_import_images_msg3']    = 'y esperar. Para más información cliquear <a href="http://shop.openbaypro.com/index.php?route=information/faq&topic=8_45" target="_blank">aquí</a>.';
 

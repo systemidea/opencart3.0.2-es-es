@@ -55,7 +55,7 @@ $_['text_today_express_saver']     = 'UPS Today Express Saver';
 
 // Entry
 $_['entry_key']                    = 'Access Key';
-$_['entry_username']               = 'Username';
+$_['entry_username']               = 'Nombre de Usuario';
 $_['entry_password']               = 'Contraseñaña';
 $_['entry_pickup']                 = 'Pickup Method';
 $_['entry_packaging']              = 'Packaging Type';
@@ -80,7 +80,7 @@ $_['entry_tax_class']              = 'Clase de Impuesto';
 $_['entry_geo_zone']               = 'Zona Geográfica';
 $_['entry_status']                 = 'Estado';
 $_['entry_sort_order']             = 'Orden';
-$_['entry_debug']                  = 'Debug Mode';
+$_['entry_debug']                  = 'Modo Debug';
 
 // Help
 $_['help_key']                     = 'Enter the XML rates access key assigned to you by UPS.';
@@ -107,7 +107,7 @@ $_['help_debug']                   = 'Saves send/recv data to the system log';
 // Error
 $_['error_permission']             = 'Error: Sin permiso para modificar UPS (US) shipping.';
 $_['error_key']                    = 'Access Key Required.';
-$_['error_username']               = 'Username Required.';
+$_['error_username']               = 'Nombre de Usuario Obligatorio.';
 $_['error_password']               = 'Contraseña Obligatoria.';
 $_['error_city']                   = 'Origin City.';
 $_['error_state']                  = 'Origin State/Province Required.';

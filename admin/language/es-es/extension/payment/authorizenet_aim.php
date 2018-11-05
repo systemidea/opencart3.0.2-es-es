@@ -8,7 +8,7 @@ $_['text_success']          = 'Operación Exitosa: Detalles de Cuenta Authorize.
 $_['text_edit']             = 'Editar Authorize.Net (AIM)';
 $_['text_test']             = 'Sitio en Testing';
 $_['text_live']             = 'Sitio en Producción';
-$_['text_authorization']    = 'Authorization';
+$_['text_authorization']    = 'Autorización';
 $_['text_capture']          = 'Capturar';
 $_['text_authorizenet_aim'] = '<a onclick="window.open(\'http://reseller.authorize.net/application/?id=5561142\');"><img src="view/image/payment/authorizenet.png" alt="Authorize.Net" title="Authorize.Net" style="border: 1px solid #EEEEEE;" /></a>';
 

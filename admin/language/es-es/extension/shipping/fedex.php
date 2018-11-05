@@ -3,7 +3,7 @@
 $_['heading_title']                            = 'Fedex';
 
 // Text
-$_['text_shipping']                            = 'Shipping';
+$_['text_shipping']                            = 'Envío';
 $_['text_success']                             = 'Operación Exitosa: You have modified Fedex shipping.';
 $_['text_edit']                                = 'Edit Fedex Shipping';
 $_['text_europe_first_international_priority'] = 'Europe First International Priority';
@@ -75,7 +75,7 @@ $_['help_weight_class']                        = 'Set to kilograms or pounds.';
 // Error
 $_['error_permission']                         = 'Error: Sin permiso para modificar Fedex shipping.';
 $_['error_key']                                = 'Key required.';
-$_['error_password']                           = 'Password required.';
+$_['error_password']                           = 'Contraseña Obligatoria.';
 $_['error_account']                            = 'Account required.';
 $_['error_meter']                              = 'Meter required.';
 $_['error_postcode']                           = 'Post Code required.';

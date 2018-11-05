@@ -9,7 +9,7 @@ $_['text_edit']                 = 'Edit AWeb Payment Software';
 $_['text_web_payment_software']	= '<a href="http://www.web-payment-software.com/" target="_blank"><img src="view/image/payment/wps-logo.jpg" alt="Web Payment Software" title="Web Payment Software" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_test']					= 'Sitio en Testing';
 $_['text_live']					= 'Sitio en Producción';
-$_['text_authorization']		= 'Authorization';
+$_['text_authorization']		= 'Autorización';
 $_['text_capture']				= 'Capturar';
 
 // Entry

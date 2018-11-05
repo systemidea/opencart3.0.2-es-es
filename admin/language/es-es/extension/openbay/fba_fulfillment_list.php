@@ -5,7 +5,7 @@ $_['text_openbay']					     = 'OpenBay Pro';
 $_['text_fba']						     = 'Cumplimiento por parte de Amazon';
 
 // Buttons
-//$_['button_pull_orders']        	     = 'Start';
+//$_['button_pull_orders']        	     = 'Inicio';
 
 // Entry
 $_['entry_start_date']             		 = 'Fecha Inicio (formato AAAA-MM-DD)';

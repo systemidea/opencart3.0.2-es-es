@@ -51,7 +51,7 @@ $_['text_non_rectangular']  = 'Non Rectangular';
 $_['text_variable']         = 'Variable';
 
 // Entry
-$_['entry_user_id']         = 'User ID';
+$_['entry_user_id']         = 'Usuario ID';
 $_['entry_postcode']        = 'Código Postal';
 $_['entry_domestic']        = 'Domestic Services';
 $_['entry_international']   = 'International Services';
@@ -69,7 +69,7 @@ $_['entry_tax']             = 'Clase de Impuesto';
 $_['entry_geo_zone']        = 'Zona Geográfica';
 $_['entry_status']          = 'Estado';
 $_['entry_sort_order']      = 'Orden';
-$_['entry_debug']           = 'Debug Mode';
+$_['entry_debug']           = 'Modo Debug';
 
 // Help
 $_['help_dimension']        = 'Average package dimensions for shipping package. Product dimensions are not used for shipping at this time.';
@@ -80,7 +80,7 @@ $_['help_debug']            = 'Saves send/recv data to the system log';
 
 // Error
 $_['error_permission']      = 'Error: Sin permiso para modificar United States Postal Service.';
-$_['error_user_id']         = 'User ID Required.';
+$_['error_user_id']         = 'Usuario ID Obligatorio.';
 $_['error_postcode']        = 'Zip Code Required.';
 $_['error_width']           = 'Ancho Obligatorio.';
 $_['error_length']          = 'Length Required.';

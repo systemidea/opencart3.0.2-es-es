@@ -42,5 +42,5 @@ $_['help_weight_class']                        = 'Set to kilograms only.';
 // Error
 $_['error_permission']                         = 'Error: Sin permiso para modificar EC-SHIP shipping.';
 $_['error_api_key']                            = 'Access API Key Required.';
-$_['error_username']                           = 'Username Required.';
+$_['error_username']                           = 'Nombre de Usuario Obligatorio.';
 $_['error_api_username']                       = 'Nombre de Usuario de API Obligatorio.';

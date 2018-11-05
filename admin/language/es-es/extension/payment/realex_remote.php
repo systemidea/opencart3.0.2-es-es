@@ -4,10 +4,10 @@ $_['heading_title']					 = 'Realex Remote';
 
 // Text
 $_['text_extension']				 = 'Extensiones';
-$_['text_success']					 = 'Operación Exitosa: Detalles de Cuenta Realex account details.';
-$_['text_edit']                      = 'Edit Realex Remote';
+$_['text_success']					 = 'Operación Exitosa: Detalles de Cuenta Realex.';
+$_['text_edit']                      = 'Editar Realex Remote';
 $_['text_card_type']				 = 'Tipo de Tarjeta';
-$_['text_enabled']					 = 'Enabled';
+$_['text_enabled']					 = 'Habilitado';
 $_['text_use_default']				 = 'Usar por Defecto';
 $_['text_merchant_id']				 = 'Comercio ID';
 $_['text_subaccount']				 = 'SubCuenta';
@@ -26,7 +26,7 @@ $_['text_void_ok']					 = 'Anulación Exitosa, Estado del Pedido Actualizado';
 $_['text_settle_auto']				 = 'Auto';
 $_['text_settle_delayed']			 = 'Retrasado';
 $_['text_settle_multi']				 = 'Multi';
-$_['text_ip_message']				 = 'You must supply your server IP address to your Realex account manager before going live';
+$_['text_ip_message']				 = 'Se debe proporcionar la URL del Comercio al Administrador de la Cuenta Realex antes de Publicar.';
 $_['text_payment_info']				 = 'Información de Pago';
 $_['text_capture_status']			 = 'Pago Capturado';
 $_['text_void_status']				 = 'Pago Anulado';
@@ -71,10 +71,10 @@ $_['entry_status_rebate']			 = 'Rechazado';
 // Help
 $_['help_total']					 = 'Total del Pedido a Alcanzar antes de que el método de pago se active.';
 $_['help_card_select']				 = 'Solicitar al Usuario que seleccione su Tipo de Tarjeta antes de ser Redirigido.';
-$_['help_notification']				 = 'You need to supply this URL to Realex to get payment notifications';
+$_['help_notification']				 = 'Se debe proporcionar la URL a Realex para obtener las Notificacioens de Pago.';
 $_['help_debug']					 = 'Al habilitar la depuración, se escribirán los datos confidenciales en un archivo de registro. Siempre desactivar a menos que se indique lo contrario.';
-$_['help_liability']				 = 'Accepting liability means you will still accept payments when a user fails 3D secure.';
-$_['help_card_data_status']			 = 'Logs last 4 cards digits, expire, name, type and issuing bank information';
+$_['help_liability']				 = 'Aceptar responsabilidad significa que se seguirán aceptando pagos cuando un usuario falla en Seguridad 3D.';
+$_['help_card_data_status']			 = 'Registrat los últimos 4 dígitos de las tarjetas, caducidad, nombre, tipo e información bancaria de emisión';
 
 // Tab
 $_['tab_api']					     = 'Detalles de API';
