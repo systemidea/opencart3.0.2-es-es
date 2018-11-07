@@ -16,8 +16,8 @@ $_['text_all_status']   = 'Todos los Estados';
 // Column
 $_['column_date_start'] = 'Fecha Inicio';
 $_['column_date_end']   = 'Fecha Fin';
-$_['column_orders']     = 'No. Pedidos';
-$_['column_products']   = 'No. Productos';
+$_['column_orders']     = 'N° Pedidos';
+$_['column_products']   = 'N° Productos';
 $_['column_tax']        = 'Impuesto';
 $_['column_total']      = 'Total';
 

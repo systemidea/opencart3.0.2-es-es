@@ -26,14 +26,14 @@ $_['column_action']		       = 'Acción';
 
 // Entry
 $_['entry_trans_all']		   = 'Todos';
-$_['entry_trans_sent']		   = 'Sent';
-$_['entry_trans_received']     = 'Received';
-$_['entry_trans_masspay']	   = 'Mass Pay';
-$_['entry_trans_money_req']	   = 'Money Request';
-$_['entry_trans_funds_add']	   = 'Funds Added';
-$_['entry_trans_funds_with']   = 'Funds Withdrawn';
-$_['entry_trans_referral']	   = 'Referral';
-$_['entry_trans_fee']		   = 'Cupta';
+$_['entry_trans_sent']		   = 'Enviado';
+$_['entry_trans_received']     = 'Recibido';
+$_['entry_trans_masspay']	   = 'Pago Masivo';
+$_['entry_trans_money_req']	   = 'Solicitud de Dinero';
+$_['entry_trans_funds_add']	   = 'Fondos Agregados';
+$_['entry_trans_funds_with']   = 'Fondos Reitrados';
+$_['entry_trans_referral']	   = 'Remisión';
+$_['entry_trans_fee']		   = 'Cuota';
 $_['entry_trans_subscription'] = 'Suscripción';
 $_['entry_trans_dividend']     = 'Dividendo';
 $_['entry_trans_billpay']      = 'Pago de Facturas';

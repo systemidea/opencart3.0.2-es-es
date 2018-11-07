@@ -13,7 +13,7 @@ $_['text_all_status']  = 'Todos los Estados';
 $_['column_campaign']  = 'Nombre de la Campaña';
 $_['column_code']      = 'Código';
 $_['column_clicks']    = 'Clicks';
-$_['column_orders']    = 'No. Pedidos';
+$_['column_orders']    = 'N° Pedidos';
 $_['column_total']     = 'Total';
 
 // Entry

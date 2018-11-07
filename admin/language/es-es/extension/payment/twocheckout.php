@@ -10,8 +10,8 @@ $_['text_twocheckout']	 = '<a href="https://www.2checkout.com/2co/affiliate?affi
 
 // Entry
 $_['entry_account']		 = 'Cuenta ID 2Checkout';
-$_['entry_secret']		 = 'Secret Word';
-$_['entry_display']		 = 'Direct Checkout';
+$_['entry_secret']		 = 'Palabra Secreta';
+$_['entry_display']		 = 'Pago Directo';
 $_['entry_test']		 = 'Modo Testing';
 $_['entry_total']		 = 'Total';
 $_['entry_order_status'] = 'Estado del Pedido';
@@ -20,10 +20,10 @@ $_['entry_status']		 = 'Estado';
 $_['entry_sort_order']	 = 'Orden';
 
 // Help
-$_['help_secret']		 = 'The secret word to confirm transactions with (must be the same as defined on the merchant account configuration page).';
+$_['help_secret']		 = 'La Palabra Secreta para confirmar las transacciones (debe ser la misma que se define en la página de configuración de la cuenta del comerciante).';
 $_['help_total']		 = 'Total del Pedido a Alcanzar antes de que el método de pago se active.';
 
 // Error
-$_['error_permission']	 = 'Error: Sin permiso para modificar payment 2Checkout.';
-$_['error_account']		 = 'Account No. Required.';
-$_['error_secret']		 = 'Secret Word Required.';
+$_['error_permission']	 = 'Error: Sin permiso para modificar los Pagos 2Checkout.';
+$_['error_account']		 = 'N° de Cuenta Obligatorio.';
+$_['error_secret']		 = 'Palabra Secreta Obligatoria.';
