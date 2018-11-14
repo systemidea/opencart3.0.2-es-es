@@ -10,7 +10,7 @@ $_['text_sweden']      = 'Suecia';
 $_['text_norway']      = 'Noruega';
 $_['text_finland']     = 'Finlandia';
 $_['text_denmark']     = 'Dinamarca';
-$_['text_germany']     = 'alemania';
+$_['text_germany']     = 'Alemania';
 $_['text_netherlands'] = 'Países Bajos';
 
 // Entry

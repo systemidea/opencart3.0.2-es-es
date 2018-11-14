@@ -3,16 +3,16 @@
 $_['heading_title']        = 'Devolución de Productos';
 
 // Text
-$_['text_success']         = 'Operación Exitosa: You have modified returns.';
-$_['text_list']            = 'Product Return List';
-$_['text_add']             = 'Add Product Return';
-$_['text_edit']            = 'Edit Product Return';
+$_['text_success']         = 'Operación Exitosa: Devoluciones de Productos Modificadas.';
+$_['text_list']            = 'Listado de Productos Devueltos';
+$_['text_add']             = 'Agregar Devolución de Producto';
+$_['text_edit']            = 'Editar Devolución de Producto';
 $_['text_opened']          = 'Abierto';
 $_['text_unopened']        = 'Cerrado';
-$_['text_order']           = 'Order Information';
-$_['text_product']         = 'Product Information &amp; Reason for Return';
-$_['text_history']         = 'History';
-$_['text_history_add']     = 'Add History';
+$_['text_order']           = 'Información de Pedido';
+$_['text_product']         = 'información de Pedido &amp; Razón de Devolución';
+$_['text_history']         = 'Historial';
+$_['text_history_add']     = 'Agregar Historial';
 
 // Column
 $_['column_return_id']     = 'Devolución ID';
@@ -23,8 +23,8 @@ $_['column_model']         = 'Modelo';
 $_['column_status']        = 'Estado';
 $_['column_date_added']    = 'Fecha Alta';
 $_['column_date_modified'] = 'Fecha Modificación';
-$_['column_comment']       = 'Comment';
-$_['column_notify']        = 'Customer Notified';
+$_['column_comment']       = 'Comentario';
+$_['column_notify']        = 'Cliente Notificado';
 $_['column_action']        = 'Acción';
 
 // Entry
@@ -34,8 +34,8 @@ $_['entry_date_ordered']   = 'Fecha de Pedido';
 $_['entry_firstname']      = 'Nombre';
 $_['entry_lastname']       = 'Apellido';
 $_['entry_email']          = 'Email';
-$_['entry_telephone']      = 'Telephone';
-$_['entry_product']        = 'Product';
+$_['entry_telephone']      = 'Teléfono';
+$_['entry_product']        = 'Producto';
 $_['entry_model']          = 'Modelo';
 $_['entry_quantity']       = 'Cantidad';
 $_['entry_opened']         = 'Abierto';
@@ -55,9 +55,9 @@ $_['help_product']         = '(Autocompletar)';
 $_['error_warning']        = 'Error: Verificar el Formulario.';
 $_['error_permission']     = 'Error: Sin permiso para modificar Devoluciones.';
 $_['error_order_id']       = 'Pedido ID Obligatorio.';
-$_['error_firstname']      = 'First Name must be between 1 and 32 caracteres.';
-$_['error_lastname']       = 'Last Name must be between 1 and 32 caracteres.';
-$_['error_email']          = 'E-Mail Address does not appear to be valid.';
-$_['error_telephone']      = 'Telephone must be between 3 and 32 caracteres.';
-$_['error_product']        = 'Product Name must be greater than 3 and less than 255 caracteres.';
-$_['error_model']          = 'Product Model must be greater than 3 and less than 64 caracteres.';
+$_['error_firstname']      = 'El Nombre debe contener entre 1 y 32 caracteres.';
+$_['error_lastname']       = 'El Apellido debe contener entre 1 y 32 caracteres.';
+$_['error_email']          = 'Email Inválido.';
+$_['error_telephone']      = 'El Teléfono debe contener entre 3 y 32 caracteres.';
+$_['error_product']        = 'El Nombre del Producto debe contener entre 3 y y 255 caracteres.';
+$_['error_model']          = 'El Modelo del Producto debe contener entre 3 y y 64 caracteres.';

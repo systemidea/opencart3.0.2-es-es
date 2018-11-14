@@ -26,7 +26,7 @@ $_['entry_status']            = 'Estado';
 $_['help_address_format']     = 'Nombre = {nombre}<br />Apellido = {apellido}<br />Empresa = {empresa}<br />Dirección 1 = {direccion_1}<br />Dirección 2 = {direccion_2}<br />Ciudad = {ciudad}<br />Código Postal = {codigo_postal}<br />Zona = {zona}<br />Zona Geográfica = {zona_geografica}<br />País = {pais}';
 
 // Error
-$_['error_permission']        = 'Error: Sin permiso para modificar Países..';
+$_['error_permission']        = 'Error: Sin permiso para modificar Países.';
 $_['error_name']              = 'El Nombre del País debe contener entre 1 y 128 caracteres.';
 $_['error_default']           = 'Error: El País no puede ser eliminado porque está asignado como País por Defecto al Comercio.';
 $_['error_store']             = 'Error: El País no puede ser eliminado porque está asignado a %s Comercios.';

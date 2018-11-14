@@ -5,7 +5,7 @@ $_['heading_title']    = 'Envío Por Item';
 // Text
 $_['text_extension']   = 'Extensiones';
 $_['text_success']     = 'Operación Exitosa: Envío Por Item Modificado.';
-$_['text_edit']        = 'Edit Per Item Shipping';
+$_['text_edit']        = 'Editar Envío Por Item';
 
 // Entry
 $_['entry_cost']       = 'Costo';

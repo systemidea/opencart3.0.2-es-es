@@ -35,7 +35,7 @@ $_['text_status_5']                        = 'Expirado';
 $_['text_status_6']                        = 'Pendiente';
 
 $_['text_transactions']                    = 'Transacciones';
-$_['text_cancel_confirm']                  = 'La Cancelación del Profile\'s no puede deshacerse. Seguro de realizar esta Acción?';
+$_['text_cancel_confirm']                  = 'La Cancelación del Perfil no puede deshacerse. Seguro de realizar esta Acción?';
 $_['text_transaction_date_added']          = 'Fecha Alta';
 $_['text_transaction_payment']             = 'Pago';
 $_['text_transaction_outstanding_payment'] = 'Pago Pendiente';

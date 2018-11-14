@@ -26,7 +26,7 @@ $_['entry_date_added']  = 'Fecha Alta';
 
 // Help
 $_['help_code']         = 'El Código de Seguimiento está siendo utilizado por una campaña.';
-$_['help_example']      = 'Para que el sistema pueda rastrear las referencias se debe agregar el código de seguimiento al final de la URL que enlaza con el sitio..';
+$_['help_example']      = 'Para que el sistema pueda rastrear las referencias se debe agregar el código de seguimiento al final de la URL que enlaza con el sitio.';
 
 // Error
 $_['error_permission']  = 'Error: Sin permiso para modificar Seguimiento de Marketing.';

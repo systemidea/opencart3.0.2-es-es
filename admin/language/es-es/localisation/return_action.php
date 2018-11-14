@@ -17,5 +17,5 @@ $_['entry_name']       = 'Nombre de la Acción';
 
 // Error
 $_['error_permission'] = 'Error: Sin permiso para modificar Acciones de Devolución.';
-$_['error_name']       = 'Return El Nombre de la Acción debe contener entre 3 y 64 caracteres.';
+$_['error_name']       = 'El Nombre de la Acción debe contener entre 3 y 64 caracteres.';
 $_['error_return']     = 'Error: La Acción no puede ser eliminada porque está asignada a %s Productos.';

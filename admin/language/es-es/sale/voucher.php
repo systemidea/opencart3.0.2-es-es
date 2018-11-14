@@ -11,7 +11,7 @@ $_['text_sent']         = 'Operación Exitosa: Gift Voucher e-mail has been sent
 
 // Column
 $_['column_name']       = 'Voucher Name';
-$_['column_code']       = 'Code';
+$_['column_code']       = 'Código';
 $_['column_from']       = 'From';
 $_['column_to']         = 'To';
 $_['column_theme']      = 'Theme';
@@ -23,7 +23,7 @@ $_['column_date_added'] = 'Fecha Alta';
 $_['column_action']     = 'Acción';
 
 // Entry
-$_['entry_code']        = 'Code';
+$_['entry_code']        = 'Código';
 $_['entry_from_name']   = 'From Name';
 $_['entry_from_email']  = 'From E-Mail';
 $_['entry_to_name']     = 'To Name';

@@ -12,5 +12,5 @@ $_['entry_secret']     = 'Clave Secreta';
 
 // Error
 $_['error_permission'] = 'Error: Sin permiso para modificar API.';
-$_['error_username']   = 'Nombre  de Usuario Obligatorio.';
+$_['error_username']   = 'Nombre de Usuario Obligatorio.';
 $_['error_secret']     = 'Clave Secreta Obligatoria.';
