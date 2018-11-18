@@ -1,19 +1,19 @@
 <?php
 // Heading
 $_['heading_title']				= 'Pago Amazon';
-$_['heading_address']			= 'Please choose a delivery address';
-$_['heading_payment']			= 'Please select a payment method';
-$_['heading_confirm']			= 'Order summary';
+$_['heading_address']			= 'Seleccionar Dirección de Envío';
+$_['heading_payment']			= 'Seleccionar Método de Pago';
+$_['heading_confirm']			= 'Resumen de Pedido';
 // Text
-$_['text_back']					= 'Back';
-$_['text_cart']					= 'Cart';
-$_['text_confirm']				= 'Confirm';
-$_['text_continue']				= 'Continue';
-$_['text_lpa']					= 'Amazon Pay';
-$_['text_enter_coupon']			= 'Enter your coupon code here. If you don\'t have one, leave it empty.';
-$_['text_coupon']				= 'Coupon';
-$_['text_tax_other']			= 'Taxes / Other handling fees';
-$_['text_success_title']		= 'Your order has been placed.';
+$_['text_back']					= 'Atrás';
+$_['text_cart']					= 'Carro';
+$_['text_confirm']				= 'Confirmar';
+$_['text_continue']				= 'Continuar';
+$_['text_lpa']					= 'Pago Amazon';
+$_['text_enter_coupon']			= 'Ingresar aquí el Código del Cupón. Si no se dispone de uno dejar en blanco.';
+$_['text_coupon']				= 'Cupón';
+$_['text_tax_other']			= 'Impuestos/Otros Gastos de Tramitación';
+$_['text_success_title']		= 'El Pedido ha sido Realizado.';
 $_['text_payment_success']		= 'Your order was successfully placed. Order details are below';
 // Error
 $_['error_payment_method']		= 'Please select a payment method';

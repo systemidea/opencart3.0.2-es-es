@@ -3,11 +3,11 @@
 $_['heading_title']        = 'APIs';
 
 // Text
-$_['text_success']         = 'Operación Exitosa: You have modified APIs.';
-$_['text_list']            = 'API List';
-$_['text_add']             = 'Add API';
-$_['text_edit']            = 'Edit API';
-$_['text_ip']              = 'Below you can create a list of IP\'s allowed to access the API. Your current IP is %s';
+$_['text_success']         = 'Operación Exitosa: APIs Modificada.';
+$_['text_list']            = 'Listado de AP';
+$_['text_add']             = 'Agregar API';
+$_['text_edit']            = 'Editar API';
+$_['text_ip']              = 'A continuación se puede crear una lista de direcciones IP permitidas para acceder a la API. La IP actual es %s';
 
 // Column
 $_['column_username']      = 'Nombre de Usuario de API';
@@ -26,7 +26,7 @@ $_['entry_status']         = 'Estado';
 $_['entry_ip']             = 'IP';
 
 // Error
-$_['error_permission']     = 'Error: You do not have permission to modified APIs.';
-$_['error_username']       = 'API USername must be between 3 and 20 caracteres.';
-$_['error_key']            = 'API Key must be between 64 and 256 caracteres.';
-$_['error_ip']             = 'You must have atleast one IP added to the allowed list.';
+$_['error_permission']     = 'Error: Sin permiso para modificar APIs.';
+$_['error_username']       = 'El Nombre de Usuario API debe contener entre 3 y 20 caracteres.';
+$_['error_key']            = 'El API Key debe contener entre 64 y 256 caracteres.';
+$_['error_ip']             = 'Debe haber al menos una IP agregada a la lista permitida.';

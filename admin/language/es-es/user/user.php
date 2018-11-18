@@ -26,13 +26,13 @@ $_['entry_image']           = 'Imagen';
 $_['entry_status']          = 'Estado';
 
 // Error
-$_['error_permission']      = 'Error: Sin permiso para modificar users.';
-$_['error_account']         = 'Error: You can not delete your own account.';
-$_['error_exists_username'] = 'Error: Username is already in use.';
-$_['error_username']        = 'Username must be between 3 and 20 caracteres.';
-$_['error_password']        = 'Password must be between 4 and 20 caracteres.';
-$_['error_confirm']         = 'Password and password confirmation do not match.';
-$_['error_firstname']       = 'First Name must be between 1 and 32 caracteres.';
-$_['error_lastname']        = 'Last Name must be between 1 and 32 caracteres.';
-$_['error_email']           = 'Email Address does not appear to be valid.';
-$_['error_exists_email']    = 'Error: Email Address is already registered.';
+$_['error_permission']      = 'Error: Sin permiso para modificar Usuarios.';
+$_['error_account']         = 'Error: No se puede eliminar el Propio Usuario.';
+$_['error_exists_username'] = 'Error: El Nombre de Usuario ya está en uso.';
+$_['error_username']        = 'El Nombre de Usuario debe contener entre 3 y 20 caracteres.';
+$_['error_password']        = 'La Contraseña debe contener entre 4 y 20 caracteres.';
+$_['error_confirm']         = 'La Contraseña y su Confirmación no coinciden.';
+$_['error_firstname']       = 'El Nombre debe contener entre 1 y 32 caracteres.';
+$_['error_lastname']        = 'El Apellido debe contener entre 1 y 32 caracteres.';
+$_['error_email']           = 'Email Inválida.';
+$_['error_exists_email']    = 'Error: Email ya Registrado.';

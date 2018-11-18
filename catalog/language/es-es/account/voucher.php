@@ -7,7 +7,7 @@ $_['text_account']     = 'Cuenta';
 $_['text_voucher']     = 'Certificado de Regalo';
 $_['text_description'] = 'El certificado de regalo será enviado por Email al destinatario después de que se haya pagado el pedido.';
 $_['text_agree']       = 'Los Certificados de Regalo no son Reembolsables.';
-$_['text_message']     = '<p>Gracias por comprar un Cerfificado de Regalo. Una vez completado el Pedido del Cerfificado de Regalo se enviará un Email con los detalles with details sobre cómo canjearlo.</p>';
+$_['text_message']     = '<p>Gracias por comprar un Cerfificado de Regalo. Una vez completado el Pedido del Cerfificado de Regalo se enviará un Email con los detalles sobre cómo canjearlo.</p>';
 $_['text_for']         = '%s Certificado de Regalo para %s';
 
 // Entry

@@ -72,7 +72,7 @@ $_['entry_sort_order']      = 'Orden';
 $_['entry_debug']           = 'Modo Debug';
 
 // Help
-$_['help_dimension']        = 'Dimensiones del paquete promedio para el paquete de envío. Las dimensiones del producto no se utilizan para el envío en este momento..';
+$_['help_dimension']        = 'Dimensiones del paquete promedio para el paquete de envío. Las dimensiones del producto no se utilizan para el envío en este momento.';
 $_['help_display_time']     = 'Mostrar Hora de Entrega? (ej. Entrega entre 3 y 5 días)';
 $_['help_display_weight']   = 'Mostrar Peso del Envío? (ej. Peso del Envío : 2.7674 kg)';
 $_['help_weight_class']     = 'Se debe setear a libras.';

@@ -19,7 +19,7 @@ $_['text_date_added']    = 'Fecha Alta:';
 $_['text_comment']       = 'Comentarios de la Devolución';
 $_['text_history']       = 'Historial de Devoluciones';
 $_['text_empty']         = 'No se han realizado Devoluciones previamente.';
-$_['text_agree']         = 'I have read and agree to the <a href="%s" class="agree"><b>%s</b></a>';
+$_['text_agree']         = 'He leído y Acepto <a href="%s" class="agree"><b>%s</b></a>';
 
 // Column
 $_['column_return_id']   = 'Devolución ID';
@@ -36,7 +36,7 @@ $_['column_comment']     = 'Comentario';
 $_['column_reason']      = 'Razón';
 $_['column_action']      = 'Acción';
 
-// Entry
+// Entry2
 $_['entry_order_id']     = 'Pedido ID';
 $_['entry_date_ordered'] = 'Order Date';
 $_['entry_firstname']    = 'Nombre';

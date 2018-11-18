@@ -18,7 +18,7 @@ $_['button_create_new_listing']   = 'Crear Nuevo Listado';
 
 // Help
 $_['help_sku'] 					  = 'ID de Producto Unico asignado por el Comerciante.';
-$_['help_restock_date'] 		  = 'Esta es la fecha en la que podrá enviar cualquier artículo retenido a un cliente. Esta fecha no debe exceder los 30 días a partir de la fecha indicada o los pedidos recibidos pueden cancelarse automáticamente..';
+$_['help_restock_date'] 		  = 'Esta es la fecha en la que podrá enviar cualquier artículo retenido a un cliente. Esta fecha no debe exceder los 30 días a partir de la fecha indicada o los pedidos recibidos pueden cancelarse automáticamente.';
 $_['help_sale_price'] 			  = 'El precio de venta debe tener una fecha de inicio y finalización';
 
 // Text

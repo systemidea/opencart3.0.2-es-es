@@ -12,4 +12,4 @@ $_['entry_generator']  = 'Generador de Enlaces de Seguimiento';
 $_['entry_link']       = 'Enlace de Seguimiento';
 
 // Help
-$_['help_generator']  = 'Tipear el nombre del Producto que se desea linkear';
+$_['help_generator']  = 'Escribir el nombre del Producto que se desea linkear';

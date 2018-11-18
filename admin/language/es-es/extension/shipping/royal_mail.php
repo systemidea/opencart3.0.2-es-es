@@ -23,7 +23,7 @@ $_['entry_status']                     = 'Estado';
 $_['entry_sort_order']                 = 'Orden';
 
 // Help
-$_['help_rate']                        = 'Ej: 5:10.00,7:12.00 Peso:Costo,Peso:Costo, etc..';
+$_['help_rate']                        = 'Ej: 5:10.00,7:12.00 Peso:Costo,Peso:Costo, etc.';
 $_['help_insurance']                   = 'Introducir valores de hasta 2 decimales. (12345.67) Ej: 34:0,100:1,250:2.25 - La cobertura de seguro para valores del Carro de hasta 34 costaría 0.00 extra, más de 100 y hasta 250 costarán 2.25 extra. No ingresar símbolos de moneda.';
 $_['help_display_weight']              = 'Mostrar Peso del Envío? (ej. Peso de Entrega: 2.7674 kg)';
 $_['help_display_insurance']           = 'Mostrar Seguro del Envío? (ej. Asegurado hasta $500)';
