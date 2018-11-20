@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_search']              = 'Search';
+$_['text_search']              = 'Buscar';
 $_['text_brand']               = 'Brand';
 $_['text_manufacturer']        = 'Brand:';
 $_['text_model']               = 'Product Code:';
@@ -42,9 +42,9 @@ $_['entry_bad']                = 'Bad';
 // Tabs
 $_['tab_description']          = 'Descripción';
 $_['tab_attribute']            = 'Specification';
-$_['tab_review']               = 'Reviews (%s)';
+$_['tab_review']               = 'Comentarios (%s)';
 
 // Error
-$_['error_name']               = 'Error: Review Name must be between 3 y 25 caracteres.';
-$_['error_text']               = 'Error: Review Text must be between 25 y 1000 caracteres.';
+$_['error_name']               = 'Error: El Nombre de Revisión debe contener entre 3 y 25 caracteres.';
+$_['error_text']               = 'Error: El Texto de Revisión debe contener entre 25 y 1000 caracteres.';
 $_['error_rating']             = 'Error: Please select a review rating.';

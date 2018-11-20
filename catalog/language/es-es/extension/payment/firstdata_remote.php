@@ -1,12 +1,12 @@
 <?php
 // Text
 $_['text_title']				= 'Credit or Debit Card';
-$_['text_credit_card']			= 'Credit Card Details';
+$_['text_credit_card']			= 'Detalles de Tarjeta de Crédito';
 $_['text_wait']					= 'Please wait!';
 
 // Entry
-$_['entry_cc_number']			= 'Card number';
-$_['entry_cc_name']				= 'Cardholder name';
+$_['entry_cc_number']			= 'Número de Tarjeta';
+$_['entry_cc_name']				= 'Nombre del Titular de la Tarjeta';
 $_['entry_cc_expire_date']		= 'Card expiry date';
 $_['entry_cc_cvv2']				= 'Card security code (CVV2)';
 
@@ -46,7 +46,7 @@ $_['text_card_type_v']			= 'Visa (Credit/Debit/Electron/Delta)';
 $_['text_card_type_c']			= 'Diners';
 $_['text_card_type_a']			= 'American Express';
 $_['text_card_type_ma']			= 'Maestro';
-$_['text_card_new']				= 'New card';
+$_['text_card_new']				= 'Nueva Tarjeta';
 $_['text_response_proc_code']	= 'Processor code: ';
 $_['text_response_ref']			= 'Ref number: ';
 

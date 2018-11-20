@@ -2,12 +2,12 @@
 // Text
 $_['text_new_card']                     = '+ Add new card';
 $_['text_loading']                      = 'Loading... Please wait...';
-$_['text_card_details']                 = 'Card Details';
+$_['text_card_details']                 = 'Detalles de la Tarjeta';
 $_['text_saved_card']                   = 'Use Saved Card:';
 $_['text_card_ends_in']                 = 'Pay with existing %s card that ends on XXXX XXXX XXXX %s';
-$_['text_card_number']                  = 'Card Number:';
-$_['text_card_expiry']                  = 'Card Expiry (MM/YY):';
-$_['text_card_cvc']                     = 'Card Security Code (CVC):';
+$_['text_card_number']                  = 'Número de Tarjeta:';
+$_['text_card_expiry']                  = 'Expiración de la Tarjeta (MM/YY):';
+$_['text_card_cvc']                     = 'Código de Seguridad de la Tarjeta (CVC):';
 $_['text_card_zip']                     = 'Card Zip Code:';
 $_['text_card_save']                    = 'Save card for future use?';
 $_['text_trial']                        = '%s every %s %s for %s payments then ';

@@ -6,7 +6,7 @@ $_['text_title']				= 'Credit / Debit card (Globalpay)';
 $_['button_confirm']			= 'Confirm';
 
 // Entry
-$_['entry_cc_type']				= 'Card Type';
+$_['entry_cc_type']				= 'Tipo de Tarjeta';
 
 // Text
 $_['text_success']				= 'Your payment has been authorised.';
@@ -26,7 +26,7 @@ $_['text_tss']					= 'TSS result';
 $_['text_order_ref']			= 'Order ref';
 $_['text_timestamp']			= 'Timestamp';
 $_['text_card_type']			= 'Card type';
-$_['text_card_digits']			= 'Card number';
+$_['text_card_digits']			= 'Número de Tarjeta';
 $_['text_card_exp']				= 'Card expire';
 $_['text_card_name']			= 'Card name';
 $_['text_3d_s1']				= 'Cardholder Not Enrolled, liability shift';

@@ -6,7 +6,7 @@ $_['text_title']				= 'Credit / Debit card (First Data)';
 $_['button_confirm']			= 'Continue';
 
 // Text
-$_['text_new_card']				= 'New card';
+$_['text_new_card']				= 'Nueva Tarjeta';
 $_['text_store_card']			= 'Remember my card details';
 $_['text_address_response']		= 'Address verification: ';
 $_['text_address_ppx']			= 'No address data provided or Address not checked by the Card Issuer';

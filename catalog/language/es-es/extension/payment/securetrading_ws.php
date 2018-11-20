@@ -20,8 +20,8 @@ $_['text_transaction_failed'] = 'Could not process the payment. Please check the
 $_['text_connection_error'] = 'Please try again later or use a different payment method.';
 
 $_['entry_type'] = 'Card type';
-$_['entry_number'] = 'Card number';
-$_['entry_expire_date'] = 'Expiry date';
+$_['entry_number'] = 'Número de Tarjeta';
+$_['entry_expire_date'] = 'Fecha de Expiración';
 $_['entry_cvv2'] = 'Security Code (CVV2)';
 
 $_['button_confirm'] = 'Confirm';

@@ -19,11 +19,11 @@ $_['text_status_5']			= 'Completed';
 $_['text_status_7']			= 'Canceled';
 $_['text_status_50']		= 'Revise Requested';
 $_['text_status_51']		= 'Revised';
-$_['text_comment']			= 'Updated by Lay-Buy';
+$_['text_comment']			= 'Actualizado por Lay-Buy';
 
 // Entry
 $_['entry_initial']			= 'Initial Payment';
 $_['entry_months']			= 'Months';
 
 // Button
-$_['button_confirm']		= 'Confirm Order';
+$_['button_confirm']		= 'Confirmar Pedido';

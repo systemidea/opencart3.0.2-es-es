@@ -5,7 +5,7 @@ $_['heading_title_success']		   = 'Your Klarna Checkout order has been placed!';
 
 // Text
 $_['text_title']				   = 'Klarna Checkout';
-$_['text_basket']				   = 'Shopping Cart';
+$_['text_basket']				   = 'Carro de Compras';
 $_['text_checkout']				   = 'Checkout';
 $_['text_success']				   = 'Operación Exitosa';
 $_['text_choose_shipping_method']  = 'Choose shipping method';
