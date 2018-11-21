@@ -1,7 +1,7 @@
 <?php
 
-$_['text_title'] = 'Credit / Debit card';
-$_['button_confirm'] = 'Confirm';
+$_['text_title'] = 'Tarjeta de Crédito/Débito';
+$_['button_confirm'] = 'Confirmar';
 
 $_['text_postcode_check'] = 'Postcode check: %s';
 $_['text_security_code_check'] = 'CVV2 check: %s';
@@ -12,4 +12,4 @@ $_['text_match'] = 'Matched';
 $_['text_not_match'] = 'Not matched';
 $_['text_payment_details'] = 'Payment details';
 
-$_['entry_card_type'] = 'Card type';
+$_['entry_card_type'] = 'Tipo de Tarjeta';

@@ -16,5 +16,5 @@ $_['entry_cc_cvv2']				= 'Código de Seguridad de la Tarjeta (CVV2)';
 $_['entry_cc_issue']			= 'Card Issue Number';
 
 // Help
-$_['help_start_date']			= '(if available)';
-$_['help_issue']				= '(for Maestro and Solo cards only)';
+$_['help_start_date']			= '(si está disponible)';
+$_['help_issue']				= '(solamente para Tarjetas Maestro y Solo)';

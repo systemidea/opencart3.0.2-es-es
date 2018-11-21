@@ -1,7 +1,7 @@
 <?php
 // Text
 $_['text_new_card']                     = '+ Add new card';
-$_['text_loading']                      = 'Loading... Please wait...';
+$_['text_loading']                      = 'Cargando... Esperar...';
 $_['text_card_details']                 = 'Detalles de la Tarjeta';
 $_['text_saved_card']                   = 'Use Saved Card:';
 $_['text_card_ends_in']                 = 'Pay with existing %s card that ends on XXXX XXXX XXXX %s';
@@ -28,7 +28,7 @@ $_['text_cron_success_charge']          = 'Profile <strong>#%s</strong> was char
 $_['text_card_placeholder']             = 'XXXX XXXX XXXX XXXX';
 $_['text_cvv']                          = 'CVV';
 $_['text_expiry']                       = 'MM/YY';
-$_['text_default_squareup_name']        = 'Credit / Debit Card';
+$_['text_default_squareup_name']        = 'Tarjeta de Crédito/Débito';
 $_['text_token_issue_customer_error']   = 'We are experiencing a technical outage in our payment system. Please try again later.';
 $_['text_token_revoked_subject']        = 'Your Square access token has been revoked!';
 $_['text_token_revoked_message']        = "The Square payment extension's access to your Square account has been revoked through the Square Dashboard. You need to verify your application credentials in the extension settings and connect again.";

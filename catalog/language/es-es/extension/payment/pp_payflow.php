@@ -2,9 +2,9 @@
 // Text
 $_['text_title']				= 'Credit or Debit Card (Processed securely by PayPal)';
 $_['text_credit_card']			= 'Detalles de Tarjeta de Crédito';
-$_['text_start_date']			= '(if available)';
-$_['text_issue']				= '(for Maestro and Solo cards only)';
-$_['text_wait']					= 'Please wait!';
+$_['text_start_date']			= '(si está disponible)';
+$_['text_issue']				= '(solamente para Tarjetas Maestro y Solo)';
+$_['text_wait']					= 'Esperar...!';
 
 // Entry
 $_['entry_cc_owner']			= 'Propietario de la Tarjeta:';

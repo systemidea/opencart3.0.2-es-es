@@ -10,12 +10,12 @@ $_['text_card_expiry']			= 'Expiración: ';
 $_['text_trial']				= '%s every %s %s for %s payments then ';
 $_['text_recurring']			= '%s every %s %s';
 $_['text_length']				= ' for %s payments';
-$_['text_success']				= 'Your payment has been authorised.';
+$_['text_success']				= 'El Pago ha sido Autorizado.';
 $_['text_decline']				= 'Your payment has been declined.';
-$_['text_bank_error']			= 'There was an error processing your request with the bank.';
+$_['text_bank_error']			= 'Hay un Error al procesar la Solicitud con el Banco.';
 $_['text_transaction_error']	= 'Hay un Error al Procesar la Transacción.';
-$_['text_generic_error']		= 'There was an error processing your request.';
-$_['text_hash_failed']			= 'Hash check failed. Do not try your payment again as the payment status is unknown. Please contact the merchant.';
+$_['text_generic_error']		= 'Hay un Error al procesar la Solicitud.';
+$_['text_hash_failed']			= 'Hash Fallido. No intentar el pago nuevamente ya que el estado del pago es desconocido. Ponerse en contacto con el comerciante.';
 $_['text_link']					= 'Please click <a href="%s">here</a> to continue';
 $_['text_confirm_delete']		= 'Seguro de Eliminar esta Tarjeta?';
 

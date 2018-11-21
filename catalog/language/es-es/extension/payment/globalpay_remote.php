@@ -2,8 +2,8 @@
 // Text
 $_['text_title']				= 'Credit or Debit Card';
 $_['text_credit_card']			= 'Detalles de Tarjeta de Crédito';
-$_['text_wait']					= 'Please wait!';
-$_['text_result']				= 'Result';
+$_['text_wait']					= 'Esperar...!';
+$_['text_result']				= 'Resultado';
 $_['text_message']				= 'Message';
 $_['text_cvn_result']			= 'CVN result';
 $_['text_avs_postcode']			= 'AVS postcode';
@@ -35,16 +35,16 @@ $_['text_3d_s9']				= 'Invalid Response From ACS, no liability shift';
 $_['text_3d_s10']				= 'RealMPI Fatal Error, no liability shift';
 
 // Entry
-$_['entry_cc_type']				= 'Card type';
+$_['entry_cc_type']				= 'Tipo de Tarjeta';
 $_['entry_cc_number']			= 'Número de Tarjeta';
 $_['entry_cc_name']				= 'Nombre del Titular de la Tarjeta';
-$_['entry_cc_expire_date']		= 'Card expiry date';
-$_['entry_cc_cvv2']				= 'Card security code (CVV2)';
+$_['entry_cc_expire_date']		= 'Fecha de Expiración de la Tarjeta';
+$_['entry_cc_cvv2']				= 'Código de Seguridad de la Tarjeta (CVV2)';
 $_['entry_cc_issue']			= 'Card issue number';
 
 // Help
-$_['help_start_date']			= '(if available)';
-$_['help_issue']				= '(for Maestro and Solo cards only)';
+$_['help_start_date']			= '(si está disponible)';
+$_['help_issue']				= '(solamente para Tarjetas Maestro y Solo)';
 
 // Error
 $_['error_card_number']			= 'Please check your card number is valid';

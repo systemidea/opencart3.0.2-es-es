@@ -16,8 +16,8 @@ $_['express_entry_coupon']    = 'Enter your coupon here:';
 
 // Button
 $_['button_express_coupon']   = 'Add';
-$_['button_express_confirm']  = 'Confirm';
-$_['button_express_login']    = 'Continue to PayPal';
+$_['button_express_confirm']  = 'Confirmar';
+$_['button_express_login']    = 'Continuar a PayPal';
 $_['button_express_shipping'] = 'Actualizar Envío';
 
 // Error

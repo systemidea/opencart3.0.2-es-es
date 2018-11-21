@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['text_title']				= 'Credit / Debit card (Realex)';
+$_['text_title']				= 'Tarjeta de Crédito/Débito (Realex)';
 
 // Button
-$_['button_confirm']			= 'Confirm';
+$_['button_confirm']			= 'Confirmar';
 
 // Entry
 $_['entry_cc_type']				= 'Tipo de Tarjeta';
 
 // Text
-$_['text_success']				= 'Your payment has been authorised.';
-$_['text_decline']				= 'Your payment was unsuccessful';
-$_['text_bank_error']			= 'There was an error processing your request with the bank.';
-$_['text_generic_error']		= 'There was an error processing your request.';
-$_['text_hash_failed']			= 'Hash check failed. Do not try your payment again as the payment status is unknown. Please contact the merchant.';
+$_['text_success']				= 'El Pago ha sido Autorizado.';
+$_['text_decline']				= 'El Pago no ha sido Exitoso';
+$_['text_bank_error']			= 'Hay un Error al procesar la Solicitud con el Banco.';
+$_['text_generic_error']		= 'Hay un Error al procesar la Solicitud.';
+$_['text_hash_failed']			= 'Hash Fallido. No intentar el pago nuevamente ya que el estado del pago es desconocido. Ponerse en contacto con el comerciante.';
 $_['text_link']					= 'Please click <a href="%s">here</a> to continue';
-$_['text_select_card']			= 'Please select your card type';
-$_['text_result']				= 'Auth result';
+$_['text_select_card']			= 'Seleccionar Tipo de Tarjeta';
+$_['text_result']				= 'Resultado de Autorización';
 $_['text_message']				= 'Message';
 $_['text_cvn_result']			= 'CVN result';
 $_['text_avs_postcode']			= 'AVS postcode';
@@ -25,7 +25,7 @@ $_['text_eci']					= 'ECI (3D secure) result';
 $_['text_tss']					= 'TSS result';
 $_['text_order_ref']			= 'Order ref';
 $_['text_timestamp']			= 'Timestamp';
-$_['text_card_type']			= 'Card type';
+$_['text_card_type']			= 'Tipo de Tarjeta';
 $_['text_card_digits']			= 'Número de Tarjeta';
 $_['text_card_exp']				= 'Card expire';
 $_['text_card_name']			= 'Card name';
