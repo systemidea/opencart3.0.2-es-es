@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_title']       = 'Per Item';
-$_['text_description'] = 'Per Item Shipping Rate';
+$_['text_title']       = 'Por Item';
+$_['text_description'] = 'Tarifa de Envío por Item';

@@ -1,11 +1,11 @@
 <?php
 // Text
 $_['text_refine']       = 'Refinar Búsqueda';
-$_['text_product']      = 'Products';
-$_['text_error']        = 'Category not found.';
-$_['text_empty']        = 'There are no products to list in this category.';
+$_['text_product']      = 'Productos';
+$_['text_error']        = 'Categoría No Encontrada.';
+$_['text_empty']        = 'No hay productos para mostrar en esta Categoría.';
 $_['text_quantity']     = 'Cantidad:';
-$_['text_manufacturer'] = 'Brand:';
+$_['text_manufacturer'] = 'Marca:';
 $_['text_model']        = 'Product Code:';
 $_['text_points']       = 'Reward Points:';
 $_['text_price']        = 'Precio:';

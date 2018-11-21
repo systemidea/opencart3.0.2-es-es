@@ -31,27 +31,27 @@ $_['text_expiry']                       = 'MM/YY';
 $_['text_default_squareup_name']        = 'Tarjeta de Crédito/Débito';
 $_['text_token_issue_customer_error']   = 'se está experimentando una Interrupción Técnica en el sistema de pago. Intentar Nuevamente.';
 $_['text_token_revoked_subject']        = 'El Token de Acceso Square ha sido revocado.';
-$_['text_token_revoked_message']        = "The Square payment extension's access to your Square account has been revoked through the Square Dashboard. You need to verify your application credentials in the extension settings and connect again.";
+$_['text_token_revoked_message']        = "El acceso de la extensión de pago de Square a la cuenta ha sido revocado a través del Panel. Se deben verificar las credenciales de la aplicación en la configuración de la extensión y conectarse nuevamente.";
 $_['text_token_expired_subject']        = 'El Token de Acceso Square ha expirado';
-$_['text_token_expired_message']        = "The Square payment extension's access token connecting it to your Square account has expired. You need to verify your application credentials and CRON job in the extension settings and connect again.";
+$_['text_token_expired_message']        = "El token de acceso de la extensión de pago de Square que conecta a la cuenta de Square ha expirado. Se deben verificar las credenciales de la aplicación y el trabajo CRON en la configuración de la extensión y conectarse nuevamente.";
 
 // Error
-$_['error_browser_not_supported']       = 'Error: The payment system no longer supports your web browser. Please update or use a different one.';
-$_['error_card_invalid']                = 'Error: Card is invalid!';
-$_['error_squareup_cron_token']         = 'Error: Access token could not get refreshed. Please connect your Square Payment extension via the OpenCart admin panel.';
+$_['error_browser_not_supported']       = 'Error: El Sistema de Pago no es Compatible con el Navegador Web. Actualizarlo o intentar con uno diferente.';
+$_['error_card_invalid']                = 'Error: Tarjeta Inválida.';
+$_['error_squareup_cron_token']         = 'Error: El Token de Acceso no pudo ser Refrescado. Conectarse con la Extensión Square desde el Panel de Administrador del Ssitema.';
 
 // Error
-$_['warning_test_mode']                 = 'Error: Sandbox mode is enabled! Transactions will appear to go through, but no charges will be carried out.';
+$_['warning_test_mode']                 = 'Error: Modo Sandbox Habilitado. Las transacciones parecerán realizarse, pero no se realizarán cargos.';
 
 // Statuses
-$_['squareup_status_comment_authorized']    = 'The card transaction has been authorized but not yet captured.';
-$_['squareup_status_comment_captured']      = 'The card transaction was authorized and subsequently captured (i.e., completed).';
-$_['squareup_status_comment_voided']        = 'The card transaction was authorized and subsequently voided (i.e., canceled).   ';
-$_['squareup_status_comment_failed']        = 'The card transaction failed.';
+$_['squareup_status_comment_authorized']    = 'La transacción con tarjeta ha sido autorizada pero aún no ha sido capturada.';
+$_['squareup_status_comment_captured']      = 'La transacción con tarjeta fue autorizada y posteriormente capturada (ej., completada).';
+$_['squareup_status_comment_voided']        = 'La transacción con tarjeta fue autorizada y posteriormente anulada (ij., cancelada).   ';
+$_['squareup_status_comment_failed']        = 'Transacción con Tarjeta Fallida.';
 
 // Override errors
-$_['squareup_override_error_billing_address.country']       = 'Payment Address country is not valid. Please modify it and try again.';
-$_['squareup_override_error_shipping_address.country']      = 'Shipping Address country is not valid. Please modify it and try again.';
-$_['squareup_override_error_email_address']                 = 'Your customer e-mail address is not valid. Please modify it and try again.';
-$_['squareup_override_error_phone_number']                  = 'Your customer phone number is not valid. Please modify it and try again.';
+$_['squareup_override_error_billing_address.country']       = 'Dirección del País de Pago Inválida. Modificar e Intentar nuevamente.';
+$_['squareup_override_error_shipping_address.country']      = 'Dirección del País de Envío Inválida. Modificar e Intentar nuevamente.';
+$_['squareup_override_error_email_address']                 = 'Email de Cliente Inválido. Modificar e Intentar nuevamente.';
+$_['squareup_override_error_phone_number']                  = 'Número de Teléfono Inválido. Modificar e Intentar nuevamente.';
 $_['squareup_error_field']                                  = ' Campo: %s';
